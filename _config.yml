@@ -3,23 +3,23 @@
 #
 
 # Name of your site (displayed in the header)
-name: 
+name: Awash Analytics, Inc.
 
 # Short bio or description (displayed in the header)
-description: 
+description: Self-taught programmer and a Biostatistician by training...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
 
 # Your website URL (e.g. https://barryclark.github.io or https://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: https://awash-analytics.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: 
+baseurl: /blog
 
 
 #
@@ -29,14 +29,14 @@ baseurl:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: awash.analytics@gmail.com
   facebook:
   flickr:
-  github: 
+  github: awash-analytics/blog
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
